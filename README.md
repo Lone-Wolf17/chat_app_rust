@@ -1,0 +1,1 @@
+Simple Chat App Built with Rust and Rocket
